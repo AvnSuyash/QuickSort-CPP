@@ -35,4 +35,4 @@ cout<<v[i]<<" ";
 return 0;
 }
 
-//This is quicksort.This is learning.
+//This is quicksort.This is learning.Ok ready to upload.
